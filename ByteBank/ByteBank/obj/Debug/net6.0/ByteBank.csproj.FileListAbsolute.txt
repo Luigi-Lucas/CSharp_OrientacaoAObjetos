@@ -1,0 +1,15 @@
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Programas\CSharp_OrientacaoAObjetos\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
